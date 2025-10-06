@@ -4,7 +4,7 @@ Function that returns a fetch URL with parameters that you pass in. Easy to use,
 # How to use:
 
 Call the function like this:
-    getFetchURL({ apiEndPoint: "/your/api/endpoint/here", params: ["firstparamkey", "firstparamvalue", "2ndparamkey", "2ndparamvalue"] });
+    `getFetchURL({ apiEndPoint: "/your/api/endpoint/here", params: ["firstparamkey", "firstparamvalue", "2ndparamkey", "2ndparamvalue"] });`
 
     returns -> ("http or https ://yoururlhere.tld/your/api/endpoint?firstparamkey=firstparamvalue&2ndparamkey=2ndparamvalue")
 
