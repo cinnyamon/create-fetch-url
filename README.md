@@ -16,4 +16,4 @@ Call the function like this:
           params: ['custom-key', true],
         }), { method: "POST" });
 
-# If this function was useful to you pls gib star. thank :DD
+## If this function was useful to you pls gib star. thank :DD
